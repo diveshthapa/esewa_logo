@@ -4,4 +4,4 @@ A company logo known as "esewa" created as college's project program using Java 
 Output :
 Esewa Logo             
 :-------------------------:
-![esewalogo](https://raw.githubusercontent.com/diveshthapa/calculator/main/esewa%20logo%20560px.jpg)
+![esewalogo](https://raw.githubusercontent.com/diveshthapa/esewa_logo/main/esewa%20logo%20560px.jpg)
